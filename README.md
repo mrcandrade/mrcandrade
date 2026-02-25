@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/mrcandrade/mrcandrade/raw/main/e137933c37d1e7cf66d2272ffe598ff1.jpg" width="100%" />
+<img src="https://github.com/mrcandrade/mrcandrade/raw/main/e137933c37d1e7cf66d2272ffe598ff1.jpg" width="70%" />
 
 </div>
 
@@ -11,10 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
 
 </div>
-
----
-
-## About Me
 
 Data Scientist at Appmax, building LLMs, intelligent chatbots, and finance-specialized AI agents for Max Bank.
 I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for weather forecasting, and lead Project Thoth, a 3D-printed robotic arm controlled by a brain-computer interface via EEG. I'm also a member of the Global Shapers Community (WEF).
