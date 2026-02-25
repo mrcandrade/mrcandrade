@@ -9,9 +9,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrcandrade)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoaurelioandrade8@gmail.com)
-[![Porto Alegre](https://img.shields.io/badge/Porto%20Alegre%2C%20BR-6d28d9?style=for-the-badge)](#)
 
 </div>
 
@@ -19,15 +16,14 @@
 
 ## About Me
 
-I'm an **Engineering Physics undergrad at UFRGS** building real-world AI products — from LLM-powered fintech chatbots to brain-controlled robotic arms.
-
-I combine a **strong mathematical foundation** from physics with hands-on software engineering skills to ship end-to-end, production-ready AI applications.
+Data Scientist at Appmax, building LLMs, intelligent chatbots, and finance-specialized AI agents for Max Bank.
+I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for weather forecasting, and lead Project Thoth, a 3D-printed robotic arm controlled by a brain-computer interface via EEG. I'm also a member of the Global Shapers Community (WEF).
 
 - **AI Developer @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
 - **CNPq Research Scholar @ UFRGS** — ML applied to weather forecasting
 - **Project Thoth** — Robotic arm controlled via EEG brain signals (BCI)
 - **Global Shaper** — World Economic Forum · Porto Alegre Hub
-- **1st Place** — 4th Data Science Bootcamp (Fundo Amanhã)
+- **4th Data Science Bootcamp** — (Fundo Amanhã)
 
 ---
 
@@ -104,27 +100,6 @@ I combine a **strong mathematical foundation** from physics with hands-on softwa
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrcandrade&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcandrade&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## Education & Certifications
-
-- **B.Sc. Engineering Physics** — UFRGS *(2024 – present)*
-- **Mathematics for ML: Linear Algebra** — Imperial College London *(2026)*
-- **Professional IT Support & Cloud Computing** — IBM
-- **Introduction to Cybersecurity** — CISCO
-- **Introduction to Quantum Computing** — University of British Columbia
-- **Fundamental Neuroscience for Neuroimaging** — Johns Hopkins University
 
 ---
 
