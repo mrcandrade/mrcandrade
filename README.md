@@ -16,7 +16,6 @@ I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
 
 </div>
----
 
 ## Featured Projects
 
