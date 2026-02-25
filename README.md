@@ -86,18 +86,6 @@ I combine a **strong mathematical foundation** from physics with hands-on softwa
 </div>
 
 
----
-
-## Education & Certifications
-
-- **B.Sc. Engineering Physics** — UFRGS *(2024 – present)*
-- **Mathematics for ML: Linear Algebra** — Imperial College London *(2026)*
-- **Professional IT Support & Cloud Computing** — IBM
-- **Introduction to Cybersecurity** — CISCO
-- **Introduction to Quantum Computing** — University of British Columbia
-- **Fundamental Neuroscience for Neuroimaging** — Johns Hopkins University
-
----
 
 <div align="center">
 
