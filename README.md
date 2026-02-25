@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Marco%20Aurélio%20Andrade&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Engineering%20Physics%20·%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Marco%20Aurélio%20Andrade&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20·%20Engineering%20Physics%20·%20BCI&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 </div>
 
@@ -10,8 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrcandrade)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoaurelioandrade8@gmail.com)
-[![Porto Alegre](https://img.shields.io/badge/Porto%20Alegre%2C%20BR-6d28d9?style=for-the-badge)](#)
 
 </div>
 
@@ -23,11 +21,10 @@ I'm an **Engineering Physics undergrad at UFRGS** building real-world AI product
 
 I combine a **strong mathematical foundation** from physics with hands-on software engineering skills to ship end-to-end, production-ready AI applications.
 
-- **AI Developer @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
-- **CNPq Research Scholar @ UFRGS** — ML applied to weather forecasting
-- **Project Thoth** — Robotic arm controlled via EEG brain signals (BCI)
+- **Data Scientist @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
+- **Researcher @ UFRGS** — ML applied to weather forecasting
+- **The Thoth Project** — Robotic arm controlled via EEG brain signals (BCI)
 - **Global Shaper** — World Economic Forum · Porto Alegre Hub
-- **1st Place** — 4th Data Science Bootcamp (Fundo Amanhã)
 
 ---
 
@@ -41,7 +38,7 @@ I combine a **strong mathematical foundation** from physics with hands-on softwa
 ---
 
 ### [Industrial Temperature Prediction](https://github.com/mrcandrade/bootcamp-dsfa-evcomx)
-> **1st place** at the 4th Data Science Bootcamp. ML model predicting furnace output temperature using XGBoost & CatBoost, with a complete production pipeline and React + FastAPI front-end.
+> **4th Data Science Bootcamp**  ML model predicting furnace output temperature using XGBoost & CatBoost, with a complete production pipeline and React + FastAPI front-end.
 
 `Python` `XGBoost` `CatBoost` `FastAPI` `React` `Cloud Deployment`
 
@@ -80,12 +77,6 @@ I combine a **strong mathematical foundation** from physics with hands-on softwa
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-6d28d9?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=flat-square)
 
-**Backend & Frontend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 **Infra & Tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -94,16 +85,6 @@ I combine a **strong mathematical foundation** from physics with hands-on softwa
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrcandrade&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcandrade&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
