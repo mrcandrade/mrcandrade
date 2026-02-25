@@ -1,8 +1,11 @@
 <div align="center">
+<img src="https://github.com/mrcandrade/mrcandrade/raw/main/banner.gif" width="100%" />
+</div>
+
 <br/>
 
-</div>
-Data Scientist at Appmax, building LLMs, intelligent chatbots, and finance-specialized AI agents for Max Bank.
+Data Scientist, building LLMs, intelligent chatbots, and AI agents for Max Bank - an Appmax project
+
 I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for weather forecasting, and lead Project Thoth, a 3D-printed robotic arm controlled by a brain-computer interface via EEG. I'm also a member of the Global Shapers Community (WEF).
 
 - **AI Developer @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
