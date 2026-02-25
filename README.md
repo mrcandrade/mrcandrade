@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/mrcandrade/mrcandrade/raw/main/e137933c37d1e7cf66d2272ffe598ff1.jpg" width="70%" />
-
-</div>
-
 <br/>
 
 <div align="center">
