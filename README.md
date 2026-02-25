@@ -1,11 +1,6 @@
 <div align="center">
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
-
-</div>
 </div>
 Data Scientist at Appmax, building LLMs, intelligent chatbots, and finance-specialized AI agents for Max Bank.
 I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for weather forecasting, and lead Project Thoth, a 3D-printed robotic arm controlled by a brain-computer interface via EEG. I'm also a member of the Global Shapers Community (WEF).
@@ -16,6 +11,11 @@ I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for
 - **Global Shaper** — World Economic Forum · Porto Alegre Hub
 - **4th Data Science Bootcamp** — (Fundo Amanhã)
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
+
+</div>
 ---
 
 ## Featured Projects
