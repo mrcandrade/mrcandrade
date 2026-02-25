@@ -6,9 +6,9 @@
 
 Data Scientist, building LLMs, intelligent chatbots, and AI agents for Max Bank - an Appmax project
 
-- **AI Developer @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
-- **CNPq Research Scholar @ UFRGS** — ML applied to weather forecasting
-- **Project Thoth** — Robotic arm controlled via EEG brain signals (BCI)
+- **Data Science @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
+- **Researcher @ UFRGS** — ML applied to weather forecasting
+- **The Thoth Project** — Robotic arm controlled via EEG brain signals (BCI)
 - **Global Shaper** — World Economic Forum · Porto Alegre Hub
 - **4th Data Science Bootcamp** — (Fundo Amanhã)
 
