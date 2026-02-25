@@ -57,33 +57,6 @@ I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-**AI & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**LLMs & Agents**
-
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6d28d9?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0ea5e9?style=flat-square)
-
-**Infra & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
----
-
 ## Listening To
 
 <div align="center">
