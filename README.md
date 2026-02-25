@@ -64,14 +64,3 @@ I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31em4fkenkwjbqewuskomrcy4pvu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
----
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-
-</div>
