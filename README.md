@@ -82,6 +82,17 @@ I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for
 ![Cloud](https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
+---
+
+## Listening To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31em4fkenkwjbqewuskomrcy4pvu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
 </div>
 
 
