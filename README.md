@@ -17,9 +17,8 @@
 
 ## About Me
 
-I'm an **Engineering Physics undergrad at UFRGS** building real-world AI products — from LLM-powered fintech chatbots to brain-controlled robotic arms.
-
-I combine a **strong mathematical foundation** from physics with hands-on software engineering skills to ship end-to-end, production-ready AI applications.
+Data Scientist at Appmax, building LLMs, intelligent chatbots, and finance-specialized AI agents for Max Bank.
+I study Engineering Physics at UFRGS, hold a CNPq research scholarship in ML for weather forecasting, and lead Project Thoth, a 3D-printed robotic arm controlled by a brain-computer interface via EEG. I'm also a member of the Global Shapers Community (WEF).
 
 - **Data Scientist @ Max Bank** — Building LLM agents and intelligent chatbots in production at scale
 - **Researcher @ UFRGS** — ML applied to weather forecasting
