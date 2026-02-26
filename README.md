@@ -56,15 +56,5 @@ Data Scientist, building LLMs, intelligent chatbots, and AI agents for Max Bank 
 
 </div>
 
----
 
-## Watching
-
-<div align="center">
-
-[![letterboxd](https://letterboxd-badge.vercel.app/marcoandradee)](https://letterboxd.com/marcoandradee)
-
-</div>
-
----
 
