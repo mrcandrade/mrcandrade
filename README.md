@@ -39,14 +39,7 @@ Data Scientist, building LLMs, intelligent chatbots, and AI agents for Max Bank 
 
 `Python` `Signal Processing` `EEG` `Machine Learning` `Robotics`
 
----
 
-### ML Weather Forecasting — CNPq Research
-> Academic research applying Machine Learning to **weather prediction** at UFRGS. Focuses on time-series modeling, feature engineering, and iterative model evaluation.
-
-`Python` `Scikit-learn` `Time Series` `NumPy` `Pandas`
-
----
 
 ## Listening To
 
