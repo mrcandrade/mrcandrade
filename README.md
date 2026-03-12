@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/mrcandrade/mrcandrade/raw/main/banner.gif" width="70%" />
-</div>
 
 <br/>
 
