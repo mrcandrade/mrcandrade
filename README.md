@@ -30,7 +30,7 @@ Data Scientist, building LLMs, intelligent chatbots, and AI agents for Max Bank 
 
 ---
 
-### Project Thoth *([in progress](https://github.com/mrcandrade/Thoth-project))*
+### Project Thoth *([Thoth Project](https://github.com/mrcandrade/Thoth-project))*
 > 3D-printed robotic arm controlled by a **Brain-Computer Interface** via EEG signals. Building the full pipeline: signal acquisition → ML classification → real-time robotic control.
 
 `Python` `Signal Processing` `EEG` `Machine Learning` `Robotics`
