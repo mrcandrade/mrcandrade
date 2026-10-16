@@ -10,7 +10,7 @@ Data Scientist, building LLMs, intelligent chatbots, and AI agents for Max Bank 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcoandrade8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-marcoandrade)
 
 </div>
 
